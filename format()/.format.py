@@ -6,4 +6,4 @@ experience = input("Enter your experience: ")
 
 print("{} ages is {} majored in {} and have a job of {} and experience is {}".format(name, age, degree, job, experience))
 
-# In Python .formate is use for concatination
+# In Python .format is use for concatination
